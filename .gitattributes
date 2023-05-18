@@ -1,1 +1,1 @@
-C:/Users/user/movie_recommender_system/artifact/similarity.pkl filter=lfs diff=lfs merge=lfs -text
+artifact/similarity.pkl filter=lfs diff=lfs merge=lfs -text
