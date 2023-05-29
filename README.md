@@ -37,6 +37,7 @@ The movie recommendation system uses cosine similarity to measure the similarity
 ## USAGE
 
 * Just type in the movie you want recommendation for and click `recommend`
+* It recommends movies together with the youtube trailer and wikipedia page of the movies to get more insight
 
 ![image](https://raw.githubusercontent.com/GIDDY269/movie_recommender_system/main/image/Screenshot68.png)
 
