@@ -9,7 +9,14 @@ This is a content-based movie recommendation system that utilizes cosine similar
 
 The movie recommendation system uses cosine similarity to measure the similarity between movies. It creates a vector representation for each movie, where each feature represents a specific attribute, such as genre, plot, or actors. The cosine similarity is then calculated between the user's input vector and the vectors of all movies in the database. The system recommends the movies with the highest cosine similarity scores.
 ****
-
+ movie_recommender_system
+| artifact
+        | movie_data.csv
+        | netflix_raw_data.csv
+        | similarity.pkl
+  image
+      | Screenshot68
+  notebook
 ## INSTALLATION
 
 * Clone the repository
